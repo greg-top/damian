@@ -12,3 +12,9 @@
 
 # History Log and branches
 notatka: **Tutaj będziemy wprowadzać informacje o zmianach** 
+
+## Sekcja Head
+- 1.0 wstawienie prawidłowego meta name="viewport
+- 1.1 Nazwy folderów na serwerze i zapis relatywny/absolutny
+- 1.2 Czcionki Google Font
+- 1.3 SEO w sekcji HEAD (podstawy) - https://www.whitepress.pl/baza-wiedzy/189/meta-znaczniki-podstawowa-optymalizacja-strony
